@@ -74,3 +74,19 @@
     justify-content: center;
     align-items: center;
 }
+
+#Calculate {
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+#DOB {
+    width: 150px;
+    height: 36px;
+    border-radius: 5px;
+}
+
+.text {
+    color: white;
+}
