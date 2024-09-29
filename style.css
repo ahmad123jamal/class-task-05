@@ -36,3 +36,39 @@
     justify-content: space-around;
     align-items: center;
 }
+
+#Years {
+    width: 70px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#Months {
+    width: 70px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#Day {
+    width: 70px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
